@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: IMERIS_emoji 1
+  m_EditorClassIdentifier: 
+  controls:
+  - name: Hello
+    icon: {fileID: 2800000, guid: 62628e19a58f17a479d1b94ad9d5cc99, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Smile
+    icon: {fileID: 2800000, guid: 25d4d66a240b15542b4d9d3e4ccc2067, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 2
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shock
+    icon: {fileID: 2800000, guid: 337e3ee35ae866c429193270c51d2f2a, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 3
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Curious
+    icon: {fileID: 2800000, guid: e751e7ff759a5954991ae85f29e21745, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 4
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Thumbs up
+    icon: {fileID: 2800000, guid: 3fe0ed1398327ab4eb7ae7fe4c79210b, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 5
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Sad
+    icon: {fileID: 2800000, guid: bf18d33b0103eb64eb14b8cc34fbe5f3, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 6
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: AraAra
+    icon: {fileID: 2800000, guid: 21e041c4e61e1984d9231066bc7a19c6, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 7
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: Shouting
+    icon: {fileID: 2800000, guid: 12bc10ec639c87f40a1f27d0217723ae, type: 3}
+    type: 101
+    parameter:
+      name: IMERIS_emoji 1
+    value: 8
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

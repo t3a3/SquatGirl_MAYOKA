@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 3df66ceb86f22594387d3f7de8dcb324
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Breast_L
+    100004: Breast_L.001
+    100006: Breast_L.001_end
+    100008: Breast_R
+    100010: Breast_R.001
+    100012: Breast_R.001_end
+    100014: Butt_L
+    100016: Butt_L.001
+    100018: Butt_L.001_end
+    100020: Butt_R
+    100022: Butt_R.001
+    100024: Butt_R.001_end
+    100026: Chest
+    100028: Hand_L
+    100030: Hand_R
+    100032: Hips
+    100034: IndexDistal_L
+    100036: IndexDistal_R
+    100038: IndexIntermediate_L
+    100040: IndexIntermediate_R
+    100042: IndexProximal_L
+    100044: IndexProximal_R
+    100046: LittleDistal_L
+    100048: LittleDistal_R
+    100050: LittleIntermediate_L
+    100052: LittleIntermediate_R
+    100054: LittleProximal_L
+    100056: LittleProximal_R
+    100058: LowerArm_L
+    100060: LowerArm_L_twist
+    100062: LowerArm_R
+    100064: LowerArm_R_twist
+    100066: MicroBikini_gloves
+    100068: //RootNode
+    100070: MicroBikini_top
+    100072: MicroBikini_under
+    100074: MiddleDistal_L
+    100076: MiddleDistal_R
+    100078: MiddleIntermediate_L
+    100080: MiddleIntermediate_R
+    100082: MiddleProximal_L
+    100084: MiddleProximal_R
+    100086: Neck
+    100088: RingDistal_L
+    100090: RingDistal_R
+    100092: RingIntermediate_L
+    100094: RingIntermediate_R
+    100096: RingProximal_L
+    100098: RingProximal_R
+    100100: Shoulder_L
+    100102: Shoulder_R
+    100104: Spine
+    100106: ThumbDistal_L
+    100108: ThumbDistal_R
+    100110: ThumbIntermediate_L
+    100112: ThumbIntermediate_R
+    100114: ThumbProximal_L
+    100116: ThumbProximal_R
+    100118: UpperArm_L
+    100120: UpperArm_L_twist
+    100122: UpperArm_R
+    100124: UpperArm_R_twist
+    100126: UpperLeg_L
+    100128: UpperLeg_R
+    100130: MicroBikini_top_big
+    100132: MicroBikini_top_small
+    400000: Armature
+    400002: Breast_L
+    400004: Breast_L.001
+    400006: Breast_L.001_end
+    400008: Breast_R
+    400010: Breast_R.001
+    400012: Breast_R.001_end
+    400014: Butt_L
+    400016: Butt_L.001
+    400018: Butt_L.001_end
+    400020: Butt_R
+    400022: Butt_R.001
+    400024: Butt_R.001_end
+    400026: Chest
+    400028: Hand_L
+    400030: Hand_R
+    400032: Hips
+    400034: IndexDistal_L
+    400036: IndexDistal_R
+    400038: IndexIntermediate_L
+    400040: IndexIntermediate_R
+    400042: IndexProximal_L
+    400044: IndexProximal_R
+    400046: LittleDistal_L
+    400048: LittleDistal_R
+    400050: LittleIntermediate_L
+    400052: LittleIntermediate_R
+    400054: LittleProximal_L
+    400056: LittleProximal_R
+    400058: LowerArm_L
+    400060: LowerArm_L_twist
+    400062: LowerArm_R
+    400064: LowerArm_R_twist
+    400066: MicroBikini_gloves
+    400068: //RootNode
+    400070: MicroBikini_top
+    400072: MicroBikini_under
+    400074: MiddleDistal_L
+    400076: MiddleDistal_R
+    400078: MiddleIntermediate_L
+    400080: MiddleIntermediate_R
+    400082: MiddleProximal_L
+    400084: MiddleProximal_R
+    400086: Neck
+    400088: RingDistal_L
+    400090: RingDistal_R
+    400092: RingIntermediate_L
+    400094: RingIntermediate_R
+    400096: RingProximal_L
+    400098: RingProximal_R
+    400100: Shoulder_L
+    400102: Shoulder_R
+    400104: Spine
+    400106: ThumbDistal_L
+    400108: ThumbDistal_R
+    400110: ThumbIntermediate_L
+    400112: ThumbIntermediate_R
+    400114: ThumbProximal_L
+    400116: ThumbProximal_R
+    400118: UpperArm_L
+    400120: UpperArm_L_twist
+    400122: UpperArm_R
+    400124: UpperArm_R_twist
+    400126: UpperLeg_L
+    400128: UpperLeg_R
+    400130: MicroBikini_top_big
+    400132: MicroBikini_top_small
+    2100000: No Name
+    2100002: Material.002
+    4300000: MicroBikini_gloves
+    4300002: MicroBikini_top
+    4300004: MicroBikini_under
+    4300006: MicroBikini_top_big
+    4300008: MicroBikini_top_small
+    9500000: //RootNode
+    13700000: MicroBikini_gloves
+    13700002: MicroBikini_top
+    13700004: MicroBikini_under
+    13700006: MicroBikini_top_big
+    13700008: MicroBikini_top_small
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 132d6e6b365a10444b35ed9386c33e44, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

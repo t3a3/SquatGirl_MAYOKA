@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 9c9896130b72dba4490a93fd31046485
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Breast_L
+    100004: Breast_L.001
+    100006: Breast_L.001_end
+    100008: Breast_R
+    100010: Breast_R.001
+    100012: Breast_R.001_end
+    100014: Butt_L
+    100016: Butt_L.001
+    100018: Butt_L.001_end
+    100020: Butt_R
+    100022: Butt_R.001
+    100024: Butt_R.001_end
+    100026: Chest
+    100028: Foot_L
+    100030: Foot_R
+    100032: Hips
+    100034: //RootNode
+    100036: LowerArm_L
+    100038: LowerLeg_L
+    100040: LowerLeg_L_knee
+    100042: LowerLeg_R
+    100044: LowerLeg_R_knee
+    100046: Neck
+    100048: S_bracelet
+    100050: S_pants
+    100052: S_sandals
+    100054: S_shirt
+    100056: Shoulder_L
+    100058: Shoulder_R
+    100060: Spine
+    100062: Toe_L
+    100064: Toe_R
+    100066: UpperArm_L
+    100068: UpperArm_R
+    100070: UpperLeg_L
+    100072: UpperLeg_R
+    400000: Armature
+    400002: Breast_L
+    400004: Breast_L.001
+    400006: Breast_L.001_end
+    400008: Breast_R
+    400010: Breast_R.001
+    400012: Breast_R.001_end
+    400014: Butt_L
+    400016: Butt_L.001
+    400018: Butt_L.001_end
+    400020: Butt_R
+    400022: Butt_R.001
+    400024: Butt_R.001_end
+    400026: Chest
+    400028: Foot_L
+    400030: Foot_R
+    400032: Hips
+    400034: //RootNode
+    400036: LowerArm_L
+    400038: LowerLeg_L
+    400040: LowerLeg_L_knee
+    400042: LowerLeg_R
+    400044: LowerLeg_R_knee
+    400046: Neck
+    400048: S_bracelet
+    400050: S_pants
+    400052: S_sandals
+    400054: S_shirt
+    400056: Shoulder_L
+    400058: Shoulder_R
+    400060: Spine
+    400062: Toe_L
+    400064: Toe_R
+    400066: UpperArm_L
+    400068: UpperArm_R
+    400070: UpperLeg_L
+    400072: UpperLeg_R
+    2100000: Imeris_summer
+    4300000: S_pants
+    4300002: S_shirt
+    4300004: S_sandals
+    4300006: S_bracelet
+    9500000: //RootNode
+    13700000: S_bracelet
+    13700002: S_pants
+    13700004: S_sandals
+    13700006: S_shirt
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

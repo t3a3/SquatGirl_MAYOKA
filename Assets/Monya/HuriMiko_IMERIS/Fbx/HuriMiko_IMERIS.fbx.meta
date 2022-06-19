@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: cbd475125a5be4345b81b60cdcd861cd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HuriMiko_Neck
+    100004: HuriMiko_Obi
+    100006: HuriMiko_Pants
+    100008: HuriMiko_Sode
+    100010: Armature
+    100012: Breast_L
+    100014: Breast_L.001
+    100016: Breast_L.001_end
+    100018: Breast_R
+    100020: Breast_R.001
+    100022: Breast_R.001_end
+    100024: Butt_L
+    100026: Butt_L.001
+    100028: Butt_L.001_end
+    100030: Butt_R
+    100032: Butt_R.001
+    100034: Butt_R.001_end
+    100036: Chest
+    100038: Hips
+    100040: HuriMiko_Lower.001.L
+    100042: HuriMiko_Lower.001.R
+    100044: HuriMiko_Lower.002.L
+    100046: HuriMiko_Lower.002.R
+    100048: HuriMiko_Lower.003.L
+    100050: HuriMiko_Lower.003.R
+    100052: HuriMiko_Lower.004.L
+    100054: HuriMiko_Lower.004.R
+    100056: HuriMiko_Obi_big
+    100058: HuriMiko_Obi_small
+    100060: HuriMiko_Upper.001.L
+    100062: HuriMiko_Upper.001.R
+    100064: HuriMiko_Upper.002.L
+    100066: HuriMiko_Upper.002.R
+    100068: HuriMiko_Upper.003.L
+    100070: HuriMiko_Upper.003.R
+    100072: HuriMiko_Upper.004.L
+    100074: HuriMiko_Upper.004.R
+    100076: LowerArm_L
+    100078: LowerArm_R
+    100080: Miko_Back.001
+    100082: Miko_Back.002
+    100084: Miko_Back.003
+    100086: Miko_Back.004
+    100088: Miko_Front.001
+    100090: Miko_Front.002
+    100092: Miko_Front.003
+    100094: Miko_Front.004
+    100096: Miko_Front.005
+    100098: Neck
+    100100: Shoulder_L
+    100102: Shoulder_R
+    100104: Spine
+    100106: UpperArm_L
+    100108: UpperArm_R
+    100110: UpperLeg_L
+    100112: UpperLeg_R
+    400000: //RootNode
+    400002: HuriMiko_Neck
+    400004: HuriMiko_Obi
+    400006: HuriMiko_Pants
+    400008: HuriMiko_Sode
+    400010: Armature
+    400012: Breast_L
+    400014: Breast_L.001
+    400016: Breast_L.001_end
+    400018: Breast_R
+    400020: Breast_R.001
+    400022: Breast_R.001_end
+    400024: Butt_L
+    400026: Butt_L.001
+    400028: Butt_L.001_end
+    400030: Butt_R
+    400032: Butt_R.001
+    400034: Butt_R.001_end
+    400036: Chest
+    400038: Hips
+    400040: HuriMiko_Lower.001.L
+    400042: HuriMiko_Lower.001.R
+    400044: HuriMiko_Lower.002.L
+    400046: HuriMiko_Lower.002.R
+    400048: HuriMiko_Lower.003.L
+    400050: HuriMiko_Lower.003.R
+    400052: HuriMiko_Lower.004.L
+    400054: HuriMiko_Lower.004.R
+    400056: HuriMiko_Obi_big
+    400058: HuriMiko_Obi_small
+    400060: HuriMiko_Upper.001.L
+    400062: HuriMiko_Upper.001.R
+    400064: HuriMiko_Upper.002.L
+    400066: HuriMiko_Upper.002.R
+    400068: HuriMiko_Upper.003.L
+    400070: HuriMiko_Upper.003.R
+    400072: HuriMiko_Upper.004.L
+    400074: HuriMiko_Upper.004.R
+    400076: LowerArm_L
+    400078: LowerArm_R
+    400080: Miko_Back.001
+    400082: Miko_Back.002
+    400084: Miko_Back.003
+    400086: Miko_Back.004
+    400088: Miko_Front.001
+    400090: Miko_Front.002
+    400092: Miko_Front.003
+    400094: Miko_Front.004
+    400096: Miko_Front.005
+    400098: Neck
+    400100: Shoulder_L
+    400102: Shoulder_R
+    400104: Spine
+    400106: UpperArm_L
+    400108: UpperArm_R
+    400110: UpperLeg_L
+    400112: UpperLeg_R
+    2100000: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    2300000: HuriMiko_Neck
+    2300002: HuriMiko_Pants
+    2300004: HuriMiko_Sode
+    3300000: HuriMiko_Neck
+    3300002: HuriMiko_Pants
+    3300004: HuriMiko_Sode
+    4300000: HuriMiko_Obi
+    4300002: HuriMiko_Neck
+    4300004: HuriMiko_Sode
+    4300006: HuriMiko_Pants
+    4300008: HuriMiko_Obi_small
+    4300010: HuriMiko_Obi_big
+    9500000: //RootNode
+    13700000: HuriMiko_Obi
+    13700002: HuriMiko_Neck
+    13700004: HuriMiko_Obi_big
+    13700006: HuriMiko_Obi_small
+    13700008: HuriMiko_Pants
+    13700010: HuriMiko_Sode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\u30DE\u30C6\u30EA\u30A2\u30EB"
+    second: {fileID: 2100000, guid: 6f743a1c99d429b4c9feb899d48728e0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
